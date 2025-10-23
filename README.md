@@ -1,2 +1,3 @@
 # causal_ML
-dual LASSO for causal ML
+
+Automated causal pathway discovery in educational data using Machine Learning
